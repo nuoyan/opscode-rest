@@ -37,7 +37,7 @@ module Opscode
       http_open_timeout nil
       openid_consumer_url "http://localhost:4000"
       openid_endpoint_url "http://localhost:4001"
-      
+      private_key_file nil
     end
   end
 end
